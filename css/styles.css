@@ -1,0 +1,29 @@
+#second-seal {
+  display: none;
+}
+
+/* #first-seal img {
+  display: none;
+} */
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  color: #0088cc;
+}
+
+.black-background {
+  background-color: darkgrey;
+  color: white;
+}
+
+.cool-box {
+  border: 4px dashed black;
+  padding: 12px;
+}
+
+.take-box {
+  display: none;
+}
